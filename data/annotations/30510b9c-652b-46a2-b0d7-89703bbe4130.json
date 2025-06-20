@@ -1,0 +1,23 @@
+{
+  "event_id": "dd7ba569-2ffd-47aa-a415-7586564ac356",
+  "source_id": "34b3aa6b-101a-4de7-b057-4b04f826a768",
+  "set": "This is a transcript annotation set [Transcript]",
+  "annotations": [
+    {
+      "start_time": 3.709,
+      "end_time": 8.16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Test annotation on \"recording.\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "00f51445-f602-4efe-9bad-700cbcc03548"
+    }
+  ]
+}

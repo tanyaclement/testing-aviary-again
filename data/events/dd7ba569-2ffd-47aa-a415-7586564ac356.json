@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "34b3aa6b-101a-4de7-b057-4b04f826a768": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-weareavp.s3.wasabisys.com/collection_resource_files/resource_files/000/104/736/original/iiif-summary.mp3?1713854776",
+      "duration": 47.96082
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-06-20T12:52:11.794Z",
+  "created_by": "tanyaclement",
+  "item_type": "Audio",
+  "label": "This Is A VTT Example for BL",
+  "updated_at": "2025-06-20T12:52:11.794Z",
+  "updated_by": "tanyaclement"
+}

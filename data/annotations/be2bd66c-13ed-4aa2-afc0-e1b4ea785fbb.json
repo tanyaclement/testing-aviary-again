@@ -1,0 +1,73 @@
+{
+  "event_id": "dd7ba569-2ffd-47aa-a415-7586564ac356",
+  "source_id": "34b3aa6b-101a-4de7-b057-4b04f826a768",
+  "set": "Transcript 1 [Transcript]",
+  "annotations": [
+    {
+      "start_time": 3.709,
+      "end_time": 8.16,
+      "annotation": [
+        {
+          "text": "In this recording Bert Lyons from AVP is talking about"
+        }
+      ],
+      "tags": [],
+      "uuid": "7d693451-d0e8-4f8b-9d21-8ab324ba2c77"
+    },
+    {
+      "start_time": 9.16,
+      "end_time": 15.4,
+      "annotation": [
+        {
+          "text": "AVP's new IIIF presentation API endpoint"
+        }
+      ],
+      "tags": [],
+      "uuid": "b7ad3b93-f6b6-4321-823a-f8ca80ea590b"
+    },
+    {
+      "start_time": 13.4,
+      "end_time": 23.32,
+      "annotation": [
+        {
+          "text": "Here we have the opportunity for Aviary Resources to be exposed as IIIF manifests"
+        }
+      ],
+      "tags": [],
+      "uuid": "df97f683-86b3-45ec-afc1-9524fc8cca6b"
+    },
+    {
+      "start_time": 24.32,
+      "end_time": 30.73,
+      "annotation": [
+        {
+          "text": "Each media file attached to the resource will be its own canvas/item"
+        }
+      ],
+      "tags": [],
+      "uuid": "1c55b8aa-627b-48c9-9988-77542a301a48"
+    },
+    {
+      "start_time": 31.73,
+      "end_time": 38.18,
+      "annotation": [
+        {
+          "text": "and will be also the first annotation page - the painting - onto which other"
+        }
+      ],
+      "tags": [],
+      "uuid": "259b022a-ff62-4b7e-a635-2bf487515710"
+    },
+    {
+      "start_time": 39.18,
+      "end_time": 46.369,
+      "annotation": [
+        {
+          "text": "annotation pages can be used to annotated the media recording itself."
+        }
+      ],
+      "tags": [],
+      "uuid": "721b71e6-8f67-4ef8-8c92-9f099a534ef8"
+    }
+  ]
+}

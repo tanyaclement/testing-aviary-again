@@ -1,0 +1,18 @@
+{
+  "event_id": "dd7ba569-2ffd-47aa-a415-7586564ac356",
+  "source_id": "34b3aa6b-101a-4de7-b057-4b04f826a768",
+  "set": "English [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "https://d9jk7wjtjpu5g.cloudfront.net/file_transcripts/associated_files/000/022/004/original/iiif-vtt-trans.vtt?1611583699"
+        }
+      ],
+      "tags": [],
+      "uuid": "7fdbe351-282a-4fe9-9b00-0f44c8a7a613"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "event_id": "dd7ba569-2ffd-47aa-a415-7586564ac356",
+  "source_id": "34b3aa6b-101a-4de7-b057-4b04f826a768",
+  "set": "Index 1 [Index]",
+  "annotations": [
+    {
+      "start_time": 3.709,
+      "end_time": 3.709,
+      "annotation": [
+        {
+          "text": "What's Bert Talking About?"
+        }
+      ],
+      "tags": [],
+      "uuid": "91131ee4-81df-4c50-9eaf-217f3a9f2aa7"
+    },
+    {
+      "start_time": 3.709,
+      "end_time": 3.709,
+      "annotation": [
+        {
+          "text": "Bert starts talking here."
+        }
+      ],
+      "tags": [],
+      "uuid": "0e148a41-2139-47cc-a35c-bf10278c6fbe"
+    },
+    {
+      "start_time": 9.16,
+      "end_time": 13,
+      "annotation": [
+        {
+          "text": "Oh, IIIF"
+        }
+      ],
+      "tags": [],
+      "uuid": "4dab96cb-7dd8-4b17-bace-9ca10326b57a"
+    },
+    {
+      "start_time": 9.16,
+      "end_time": 13,
+      "annotation": [
+        {
+          "text": "Bert is going to discuss Aviary's new IIIF Presentation API."
+        }
+      ],
+      "tags": [],
+      "uuid": "eb2c7ee9-b1a5-4fa6-9df2-46309b2c79b4"
+    },
+    {
+      "start_time": 13,
+      "end_time": 24.32,
+      "annotation": [
+        {
+          "text": "Aviary Resources"
+        }
+      ],
+      "tags": [],
+      "uuid": "e1e62b06-d2f1-425f-9670-35d9215dae97"
+    },
+    {
+      "start_time": 13,
+      "end_time": 24.32,
+      "annotation": [
+        {
+          "text": "Aviary resources are mapped to IIIF Manifests."
+        }
+      ],
+      "tags": [],
+      "uuid": "cb020130-eeb3-4636-beb2-5b074e2230f0"
+    },
+    {
+      "start_time": 24.32,
+      "end_time": 24.32,
+      "annotation": [
+        {
+          "text": "Aviary Media Files"
+        }
+      ],
+      "tags": [],
+      "uuid": "15246fa6-5cf0-4eee-9680-5806b7a1ee99"
+    },
+    {
+      "start_time": 24.32,
+      "end_time": 24.32,
+      "annotation": [
+        {
+          "text": "Aviary media files will be mapped to Canvas-Items."
+        }
+      ],
+      "tags": [],
+      "uuid": "e9e5ad23-ff06-49d8-acaf-c7b63185efd0"
+    },
+    {
+      "start_time": 39.18,
+      "end_time": 39.18,
+      "annotation": [
+        {
+          "text": "Aviary Transcripts and Indexes"
+        }
+      ],
+      "tags": [],
+      "uuid": "7c29cb5b-61a8-4157-8154-86f29936b9c8"
+    },
+    {
+      "start_time": 39.18,
+      "end_time": 39.18,
+      "annotation": [
+        {
+          "text": "Aviary transcripts and indexes will map to Annotation Pages-Annotations in IIIF."
+        }
+      ],
+      "tags": [],
+      "uuid": "9b5ae982-21cc-4299-9d6b-a7aa1e1aaa62"
+    }
+  ]
+}
